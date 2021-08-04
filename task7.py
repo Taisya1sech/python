@@ -16,4 +16,4 @@ average_profit = pos_sum / pos_count
 result = [companies, {'average_profit': average_profit}]
 
 with open("result.json", 'w' as file:
-    json.dump(result, file
+    json.dump(result, file)
