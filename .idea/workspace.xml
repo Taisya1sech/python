@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39b6c99c-673c-4a73-8534-5066557232b9" name="Default Changelist" comment="hw for lesson_1 alg">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
